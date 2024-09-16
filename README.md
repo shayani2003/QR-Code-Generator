@@ -11,3 +11,6 @@ Check out the screenshot of my `QR-Code-Generator` below:
 
 
 Feel free to explore and provide feedback!
+
+| [LinkedIN post](https://www.linkedin.com/posts/shayani2003_webdevelopment-javascript-html-activity-7241455871803736064-ZbYD?utm_source=share&utm_medium=member_desktop) |
+| --- |
